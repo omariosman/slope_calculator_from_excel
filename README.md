@@ -1,0 +1,1 @@
+# slope_calculator_from_excel
